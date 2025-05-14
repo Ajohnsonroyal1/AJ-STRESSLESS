@@ -1,6 +1,8 @@
 # Stress Less: A Guide Through The Hard Times  
 **By Abdul Johnson**
 
+🏆 **Top scoring capstone project** in the TripleTen BI Program.
+
 ## 📘 Project Overview  
 This project explores the impact of the COVID-19 pandemic on mental health through a data storytelling approach. Using self-reported global data from 824 respondents, the analysis examines mood swings, coping struggles, and emotional stress across various demographics — including age, gender, occupation, and quarantine duration.  
 The goal is not just to visualize the data, but to humanize it — to remind viewers that behind every statistic is a personal story.
@@ -25,3 +27,11 @@ The goal is not just to visualize the data, but to humanize it — to remind vie
 
 ## 📬 Submission Details  
 This project was created for the Code Pudding data visualization challenge. All materials were submitted via GitHub and shared with the judging panel by direct message on Discord.
+
+## 🎥 Presentation Demo
+[🔗 Watch CodePudding Talk (starts at 54:00)](https://www.youtube.com/watch?v=qeavLBLIqFA&t=3240s)
+
+## 🔁 Future Improvements
+- Clarify axis legends for age/stress charts
+- Make visual styles consistent across views
+- Use floating containers to optimize tablet layout
